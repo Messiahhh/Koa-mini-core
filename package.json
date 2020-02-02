@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "koa": "^2.11.0",
+    "koa-compose": "^4.1.0",
+    "koa-router": "^8.0.6"
+  },
+  "name": "koa-mini",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Messiahhh/Koa-mini-core.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Messiahhh/Koa-mini-core/issues"
+  },
+  "homepage": "https://github.com/Messiahhh/Koa-mini-core#readme",
+  "description": ""
+}
